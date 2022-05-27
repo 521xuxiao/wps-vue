@@ -16,6 +16,10 @@
 ## 后台java代码地址
 [https://gitee.com/mose-x/wps-view-java.git](https://gitee.com/mose-x/wps-view-java.git)
 
+
+## VUE 代码地址
+[https://gitee.com/mose-x/wps-view-java.git](https://gitee.com/mose-x/wps-view-vue)
+
 ## 安装依赖
 ```
 yarn install
